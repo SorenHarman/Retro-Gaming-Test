@@ -221,7 +221,7 @@ info {
 
 
 .accordion {
-    background-color: #ff4747; 
+    background-color: #d6d6d6; 
     color: #000000; 
     cursor: pointer;
     padding: 18px;
@@ -235,13 +235,13 @@ info {
   }
 
 .active, .accordion:hover { 
-    background-color: #ff7a7a; 
+    background-color: #969696; 
     color: #000000; 
   }
 
   .panel {
     padding: 18px;
-    background-color: #ffb3b3; 
+    background-color: #d6d6d6; 
     display: none; 
     overflow: hidden;
     color: #000000;
