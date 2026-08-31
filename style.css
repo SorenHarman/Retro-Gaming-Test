@@ -286,7 +286,7 @@ video {
 .socials {
     position: absolute;
     right: 20px;
-    top: 45px;
+    top: 55px;
     display: flex;
     align-items: center;
     gap: 15px;
